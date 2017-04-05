@@ -17,3 +17,129 @@
 .well_in {
     background-color: white;
 }
+
+.dotted {
+    border: 1px dotted #D3D3D3; 
+    border-style: none none dotted; 
+    color: #fff; background-color: #fff;
+}
+
+    cursor: pointer!important;
+    text-decoration: none;
+    
+}
+#login{
+color: #fff;
+}
+
+#login:hover{
+text-decoration: none;
+color: #fff;
+}
+.fa-paypal{
+    /*color: #0070ba;*/
+    font-size: 28px;
+    margin-top: 8px;
+    margin-left: 50px;
+    color: #fff;
+    opacity: 0.45;
+    background-color: #253b80;
+}
+
+.navbar-fixed-top{
+    min-height: 80px;
+    background-color: #253b80;
+    opacity: 0.95;
+
+}
+
+.banner{
+background-image: url("http://i.imgur.com/f1EeKJw.png");
+min-height: 350px;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+margin-top: 70px;
+margin-bottom: 40px;
+}
+
+.content{
+    color: #fff;
+    margin-left: 30px;
+    margin-top: 5%;
+}
+
+.btn-primary{
+border: 1px solid #fff;
+border-radius: 1.5rem;
+background-color: #253b80;
+margin-top: 18px;
+margin-right: 80px;
+
+}
+
+.btn-primary:hover{
+    background-color: #005ea6;
+    border: 2px solid #fff;
+
+
+}
+
+.clicky{
+    background-color: #fff;
+    color: #000!important;
+    border: 1px solid #000;
+    border-radius: 1.5rem;
+    margin-left: 30px;
+    min-width: 4.5rem;
+    padding: 10px 30px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 1.4rem;
+    display: inline-block;
+    font-weight: 700;
+    font-family: sans-serif;
+
+}
+
+.message{
+margin-bottom: 36px;
+font-family: sans-serif;
+font-size: 18px;
+margin-top: 40px;
+}
+
+.header{
+display: block;
+font-family: sans-serif;
+font-weight: 400;
+font-size: 44px;
+}
+
+.links{
+    color: #005ea6;
+    margin-right: 40px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.links:hover{
+    text-decoration: underline;
+}
+
+.banner-foot{
+ margin-left: 80px;
+ margin-right: 80px;
+ border-bottom: solid 1px #000;
+ padding-bottom: 40px;
+}
+
+#clickyid:hover{
+color: #005ea6;
+text-decoration: none;
+}
+
+#clickyid{
+    color: #000;
+}
