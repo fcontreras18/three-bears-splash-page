@@ -19,14 +19,14 @@
 }
 
 .dotted {
-    border: 1px dotted #D3D3D3; 
-    border-style: none none dotted; 
+    border: 1px dotted #D3D3D3;
+    border-style: none none dotted;
     color: #fff; background-color: #fff;
 }
 
     cursor: pointer!important;
     text-decoration: none;
-    
+
 }
 #login{
 color: #fff;
@@ -142,4 +142,14 @@ text-decoration: none;
 
 #clickyid{
     color: #000;
+}
+
+li {
+  float: left;
+  padding: 5px, 16px;
+}
+
+.custom_btn{
+    text-align:center;
+    margin-top: 30px;
 }
